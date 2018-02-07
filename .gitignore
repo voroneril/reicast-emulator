@@ -50,3 +50,4 @@ shell/linux/nosym-reicast.elf
 shell/linux/reicast.elf
 
 reicast-ios.xccheckout
+/.project
